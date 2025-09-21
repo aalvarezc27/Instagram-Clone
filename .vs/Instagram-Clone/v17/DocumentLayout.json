@@ -1,12 +1,41 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Alex\\source\\repos\\Instagram-Clone\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96031509-9DA2-446B-8EFD-DA36634AF928}|Instagram-Clone.WebAPI\\Instagram-Clone.WebAPI.csproj|c:\\users\\alex\\source\\repos\\instagram-clone\\instagram-clone.webapi\\instagram-clone.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{96031509-9DA2-446B-8EFD-DA36634AF928}|Instagram-Clone.WebAPI\\Instagram-Clone.WebAPI.csproj|solutionrelative:instagram-clone.webapi\\instagram-clone.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Instagram-Clone.WebAPI",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\Instagram-Clone\\Instagram-Clone.WebAPI\\Instagram-Clone.WebAPI.csproj",
+              "RelativeDocumentMoniker": "Instagram-Clone.WebAPI\\Instagram-Clone.WebAPI.csproj",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\Instagram-Clone\\Instagram-Clone.WebAPI\\Instagram-Clone.WebAPI.csproj",
+              "RelativeToolTip": "Instagram-Clone.WebAPI\\Instagram-Clone.WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-21T09:05:12.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
