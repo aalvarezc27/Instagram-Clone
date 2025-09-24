@@ -17,5 +17,8 @@ namespace Instagram_Clone.Domain.Entities
         public DateOnly CreatedAt { get; set; }
         public DateOnly UpdatedAt { get; set; }
         public User User { get; set; } = null!;
+        public ICollection<PostLikes> PostLikes { get; set; } = [];
+        public ICollection<PostComments> PostComments { get; set; } = [];
+
     }
 }
