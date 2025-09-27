@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "backend", "backend", "{F0F7F2E5-50CF-4618-B7F4-29E24C979A21}"
 EndProject
@@ -15,7 +15,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Instagram-Clone.WebAPI", "I
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "frontend", "frontend", "{C3746B03-8672-495E-B267-F748319C868A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Instagram-Clone.BlazorApp", "Instagram-Clone.BlazorApp\Instagram-Clone.BlazorApp.csproj", "{98A0CD71-B1C3-40AC-BC96-22AC167C65C8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Instragram-Clone.Shared", "Instragram-Clone.Shared\Instragram-Clone.Shared.csproj", "{54A5961F-5316-4032-A816-13439D1109C7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{B621E33E-6416-4F6D-8624-5F6ACE62DE0C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,10 +41,10 @@ Global
 		{96031509-9DA2-446B-8EFD-DA36634AF928}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96031509-9DA2-446B-8EFD-DA36634AF928}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96031509-9DA2-446B-8EFD-DA36634AF928}.Release|Any CPU.Build.0 = Release|Any CPU
-		{98A0CD71-B1C3-40AC-BC96-22AC167C65C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{98A0CD71-B1C3-40AC-BC96-22AC167C65C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{98A0CD71-B1C3-40AC-BC96-22AC167C65C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{98A0CD71-B1C3-40AC-BC96-22AC167C65C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54A5961F-5316-4032-A816-13439D1109C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54A5961F-5316-4032-A816-13439D1109C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54A5961F-5316-4032-A816-13439D1109C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54A5961F-5316-4032-A816-13439D1109C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -52,6 +54,5 @@ Global
 		{E332261A-E414-46A1-BC04-318826B428AA} = {F0F7F2E5-50CF-4618-B7F4-29E24C979A21}
 		{C05ADF6A-012B-4583-9E3F-0AE34D8F86CA} = {F0F7F2E5-50CF-4618-B7F4-29E24C979A21}
 		{96031509-9DA2-446B-8EFD-DA36634AF928} = {F0F7F2E5-50CF-4618-B7F4-29E24C979A21}
-		{98A0CD71-B1C3-40AC-BC96-22AC167C65C8} = {C3746B03-8672-495E-B267-F748319C868A}
 	EndGlobalSection
 EndGlobal

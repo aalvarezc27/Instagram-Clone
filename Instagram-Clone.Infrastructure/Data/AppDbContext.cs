@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Instagram_Clone.Infrastructure.Data
 {
-    internal class AppDbContext : DbContext
+    public class AppDbContext : DbContext
     {
         public DbSet<User> Users { get; set; }
         public DbSet<Post> Posts { get; set; }

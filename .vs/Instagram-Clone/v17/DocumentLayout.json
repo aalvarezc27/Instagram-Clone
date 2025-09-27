@@ -1,12 +1,141 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Alex\\source\\repos\\Instagram-Clone\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C05ADF6A-012B-4583-9E3F-0AE34D8F86CA}|Instagram-Clone.Infrastructure\\Instagram-Clone.Infrastructure.csproj|c:\\users\\alex\\source\\repos\\instagram-clone\\instagram-clone.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C05ADF6A-012B-4583-9E3F-0AE34D8F86CA}|Instagram-Clone.Infrastructure\\Instagram-Clone.Infrastructure.csproj|solutionrelative:instagram-clone.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E332261A-E414-46A1-BC04-318826B428AA}|Instagram-Clone.Application\\Instagram-Clone.Application.csproj|c:\\users\\alex\\source\\repos\\instagram-clone\\instagram-clone.application\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E332261A-E414-46A1-BC04-318826B428AA}|Instagram-Clone.Application\\Instagram-Clone.Application.csproj|solutionrelative:instagram-clone.application\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C05ADF6A-012B-4583-9E3F-0AE34D8F86CA}|Instagram-Clone.Infrastructure\\Instagram-Clone.Infrastructure.csproj|c:\\users\\alex\\source\\repos\\instagram-clone\\instagram-clone.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C05ADF6A-012B-4583-9E3F-0AE34D8F86CA}|Instagram-Clone.Infrastructure\\Instagram-Clone.Infrastructure.csproj|solutionrelative:instagram-clone.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB20628E-CB74-4BBE-913C-0DD62D096565}|Instagram-Clone.Domain\\Instagram-Clone.Domain.csproj|c:\\users\\alex\\source\\repos\\instagram-clone\\instagram-clone.domain\\entities\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB20628E-CB74-4BBE-913C-0DD62D096565}|Instagram-Clone.Domain\\Instagram-Clone.Domain.csproj|solutionrelative:instagram-clone.domain\\entities\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB20628E-CB74-4BBE-913C-0DD62D096565}|Instagram-Clone.Domain\\Instagram-Clone.Domain.csproj|c:\\users\\alex\\source\\repos\\instagram-clone\\instagram-clone.domain\\base\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB20628E-CB74-4BBE-913C-0DD62D096565}|Instagram-Clone.Domain\\Instagram-Clone.Domain.csproj|solutionrelative:instagram-clone.domain\\base\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB20628E-CB74-4BBE-913C-0DD62D096565}|Instagram-Clone.Domain\\Instagram-Clone.Domain.csproj|c:\\users\\alex\\source\\repos\\instagram-clone\\instagram-clone.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB20628E-CB74-4BBE-913C-0DD62D096565}|Instagram-Clone.Domain\\Instagram-Clone.Domain.csproj|solutionrelative:instagram-clone.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\Instagram-Clone\\Instagram-Clone.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Instagram-Clone.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\Instagram-Clone\\Instagram-Clone.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Instagram-Clone.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T18:07:09.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\Instagram-Clone\\Instagram-Clone.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Instagram-Clone.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\Instagram-Clone\\Instagram-Clone.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Instagram-Clone.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T18:07:34.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\Instagram-Clone\\Instagram-Clone.Domain\\Entities\\UserProfile.cs",
+              "RelativeDocumentMoniker": "Instagram-Clone.Domain\\Entities\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\Instagram-Clone\\Instagram-Clone.Domain\\Entities\\UserProfile.cs",
+              "RelativeToolTip": "Instagram-Clone.Domain\\Entities\\UserProfile.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T12:26:05.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\Instagram-Clone\\Instagram-Clone.Domain\\Base\\BaseModel.cs",
+              "RelativeDocumentMoniker": "Instagram-Clone.Domain\\Base\\BaseModel.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\Instagram-Clone\\Instagram-Clone.Domain\\Base\\BaseModel.cs",
+              "RelativeToolTip": "Instagram-Clone.Domain\\Base\\BaseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T12:25:38.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\Instagram-Clone\\Instagram-Clone.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Instagram-Clone.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\Instagram-Clone\\Instagram-Clone.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Instagram-Clone.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA9wBsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T12:24:48.914Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "078feaa7-90cb-4778-a13c-8c1885d013e3",
+        "Display": 1,
+        "X": 76,
+        "Y": 310,
+        "Width": 1384,
+        "Height": 630,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\Instagram-Clone\\Instagram-Clone.Application\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Instagram-Clone.Application\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\Instagram-Clone\\Instagram-Clone.Application\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "Instagram-Clone.Application\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T18:04:50.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
